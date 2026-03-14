@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/naman-dixit00/Stanford-Venture-Ambassador/main/Metadata/Stanford%20Bannner.jpg" alt="Stanford Venture Fellowship Ambassador Banner" style="width:100%; height:30;">
+
 # Stanford Venture Fellowship | Ambassador Engagement
 
 ## Overview
